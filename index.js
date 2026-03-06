@@ -1,7 +1,7 @@
 const mineflayer = require('mineflayer')
 
 const bot = mineflayer.createBot({
-  host: 'YOUR_SERVER_IP',
+  host: 'vaarsmp.falixsrv.me',
   port: 25565,
   username: 'AFK_Bot'
 })
